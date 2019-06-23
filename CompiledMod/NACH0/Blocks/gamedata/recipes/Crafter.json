@@ -1,0 +1,118 @@
+[{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log1Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log1"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log1Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log2Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log2"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log2Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log3Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log3"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log3Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log4Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log4"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log4Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log5Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log5"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log5Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.Log6Tipped",
+		"requires": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log6"
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.Log6Tipped"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.ClayBlock1",
+		"requires": [{
+			"type": "clay",
+			"amount": 10
+		}],
+		"results": [{
+			"amount": 10,
+			"type": "NACH0.Types.ClayBlock1"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.CoalBlock1",
+		"requires": [{
+			"type": "coalore",
+			"amount": 6
+		}],
+		"results": [{
+			"amount": 1,
+			"type": "NACH0.Types.CoalBlock1"
+		}]
+	},
+	{
+		"defaultLimit": 0,
+		"defaultPriority": -100,
+		"name": "NACH0.crafter.HayBlock1",
+		"requires": [{
+			"type": "straw",
+			"amount": 10
+		}],
+		"results": [{
+			"amount": 10,
+			"type": "NACH0.Types.HayBlock1"
+		}]
+	}
+]

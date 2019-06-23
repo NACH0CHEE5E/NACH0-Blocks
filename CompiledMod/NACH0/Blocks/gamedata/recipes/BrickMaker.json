@@ -1,0 +1,40 @@
+[
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.BrickMaker.Brick1",
+		"requires" : [
+			{
+				"amount":9,
+				"type":"clay"
+			},
+			{
+				"type":"firewood"
+			}
+		],
+		"results" : [
+			{
+				"amount":10,
+				"type":"NACH0.Types.Brick1"
+			}
+		]
+	},
+	{
+		"defaultLimit" : 0,
+		"name" : "NACH0.BrickMaker.Brick2",
+		"requires" : [
+			{
+				"amount":9,
+				"type":"clay"
+			},
+			{
+				"type":"firewood"
+			}
+		],
+		"results" : [
+			{
+				"amount":10,
+				"type":"NACH0.Types.Brick2"
+			}
+		]
+	}
+]

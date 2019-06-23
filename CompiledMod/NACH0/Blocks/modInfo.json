@@ -1,0 +1,237 @@
+[{
+	"name": "NACH0.Blocks",
+	"version": "1.0.0",
+	"namepretty": "NACH0's Blocks",
+	"enabled": true,
+	"marksgamemodded": true,
+	"compatibleversions": [
+		"0.7.0"
+	],
+	"jsonFiles": [{
+			"fileType": "addOrOverrideTextureMappingEntries",
+			"index": 10001,
+			"relativePath": "gamedata/textures/materials/texturemapping.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Bricks.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Cobblestone.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Concrete.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Grass.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Ice.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Log.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Planks.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/ResourceBlocks.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Sand.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Sandstone.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/SmoothedConcrete.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/SmoothedStone.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Snow.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Stone.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/StoneBricks.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Dirt.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/Wool.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"index": 10001,
+			"relativePath": "gamedata/types/CookedClay.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.dyer",
+			"relativePath": "gamedata/recipes/Dyer/Wool.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "NACH0.Jobs.Painter",
+			"relativePath": "gamedata/recipes/Painter/Concrete.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "NACH0.Jobs.Painter",
+			"relativePath": "gamedata/recipes/Painter/SmoothedConcrete.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.crafter",
+			"relativePath": "gamedata/recipes/Crafter.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.kilnjob",
+			"relativePath": "gamedata/recipes/kilnJob.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.merchant",
+			"relativePath": "gamedata/recipes/Merchant.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.metalsmithjob",
+			"relativePath": "gamedata/recipes/MetalSmith.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.stonemason",
+			"relativePath": "gamedata/recipes/StoneMason.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.tailor",
+			"relativePath": "gamedata/recipes/Tailor.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "pipliz.woodcutter",
+			"relativePath": "gamedata/recipes/WoodCutter.json"
+		},
+		{
+			"fileType": "addScienceUnlocks",
+			"index": 10001,
+			"relativePath": "gamedata/research/Unlocks.json"
+		},
+		{
+			"fileType": "addOrOverrideLocalization",
+			"index": 10001,
+			"relativePath": "gamedata/locale/en-US/Types/Concrete/en-US.json"
+		},
+		{
+			"fileType": "addOrOverrideLocalization",
+			"index": 10001,
+			"relativePath": "gamedata/locale/en-US/Types/CookedClay/en-US.json"
+		},
+		{
+			"fileType": "addOrOverrideLocalization",
+			"index": 10001,
+			"relativePath": "gamedata/locale/en-US/Types/SmoothedConcrete/en-US.json"
+		},
+		{
+			"fileType": "addOrOverrideLocalization",
+			"index": 10001,
+			"relativePath": "gamedata/locale/en-US/Types/Wool/en-US.json"
+		},
+		{
+			"fileType": "addOrOverrideLocalization",
+			"index": 10001,
+			"relativePath": "gamedata/locale/en-US/Types/en-US.json"
+		},
+		{
+			"fileType": "generateBlocks",
+			"index": 10001,
+			"relativePath": "gamedata/types/RotatableJobBlocks.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"limitsUIMapping": [
+				"NACH0.Types.Freezerx+",
+				"NACH0.Types.Freezerx-",
+				"NACH0.Types.Freezerz+",
+				"NACH0.Types.Freezerz-"
+			],
+			"npcType": "NACH0.Jobs.Freezer",
+			"relativePath": "gamedata/recipes/Freezer.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCRecipes",
+			"index": 10001,
+			"npcType": "NACH0.Jobs.BrickMaker",
+			"relativePath": "gamedata/recipes/BrickMaker.json"
+		},
+		{
+			"fileType": "addOrReplaceNPCTypes",
+			"index": 10000,
+			"relativePath": "gamedata/NPCTypes/NPCTypes.json"
+		},
+		{
+			"fileType": "addBlockJobs",
+			"index": 10000,
+			"relativePath": "gamedata/Base/JobBlocks/JobBlocks.json"
+		}
+	],
+	"patchnotes": [{
+		"version": "1.0.0",
+		"notes": [
+			"Initial Release",
+			"*If you find any issues or have suggestions join the discord",
+			"*discord.gg/tqFhxhm"
+		]
+	}]
+}]
